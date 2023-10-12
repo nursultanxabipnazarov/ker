@@ -27,7 +27,7 @@
   <div class="loader"></div>
   <div id="myDiv">
     <!--HEADER-->
-   <?php require ' header.php';?>
+   <?php require 'header.php';?>
     <!--/ HEADER-->
     <!---->
     <section id="feature" class="section-padding wow fadeIn delay-05s">
